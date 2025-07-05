@@ -15,4 +15,7 @@ Line 4: All the operations are performed inside the while loop
         Whatever will be the divisor, according to that the TC will be calculated
         Here TC = O(log10 (n)) , where n is the number
         If the divisor is 2 let's say, then TC = O(log2 (n)) , where n is the number
+
+The space complexity here --->
+    O(1), this doesn't depends on the input, the space is constant        
 """
