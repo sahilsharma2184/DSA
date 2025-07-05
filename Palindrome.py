@@ -11,3 +11,8 @@ if reverse == n:
     print("The given input is palindrome")
 else:
     print("The given input is not palindrome")
+
+"""
+TC = O(log10 (n)), where n is number. Refer to Count_Digits.py comment
+SC = O(1)
+"""
