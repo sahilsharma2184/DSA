@@ -35,3 +35,4 @@ a = a^b # 11^10 = 01(since the first bit is same '1') => 1 in decimal, here the 
 01
 """
 print("XOR Method", a,",",b)
+
